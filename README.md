@@ -20,7 +20,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
-<img align="right" height="150px" src="https://avatars.githubusercontent.com/u/183443543?s=400&u=36c1e2a9c272a5f3dcb62cfb22becf7d6c749e5c&v=4"  />
+<img align="right" alt="" height="190px" src="./.github/Mastermind.gif">
 
 <h5 align="left">👨🏽‍💻 Tecnologias que eu utilizo:</h5>
 
