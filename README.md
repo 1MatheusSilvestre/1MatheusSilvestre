@@ -51,6 +51,10 @@
 
 ###
 
-! [Snake animation] (https://github.com/1MatheusSilvestre/1MatheusSilvestre/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/1MatheusSilvestre/1MatheusSilvestre/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=1MatheusSilvestre&repo=1MatheusSilvestre&theme=react)](https://github.com/1MatheusSilvestre/1MatheusSilvestre)
 
 ###
