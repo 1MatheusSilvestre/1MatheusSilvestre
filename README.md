@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/matheussilvestree)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/matth.4m/)
 
-
 #
 
 <h5 align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente aprendendo Python e um pouco de linguagens Front-End (Java, Node, HTML, CSS).
@@ -20,6 +19,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
+
 <img align="right" alt="" height="190px" src="./.github/Mastermind.gif">
 
 <h5 align="left">👨🏽‍💻 Tecnologias que eu utilizo:</h5>
