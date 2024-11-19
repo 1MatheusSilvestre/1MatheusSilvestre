@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/1MatheusSilvestre/1MatheusSilvestre/output/snake.svg" alt="Snake animation" />
+! [Snake animation] (https://github.com/1MatheusSilvestre/1MatheusSilvestre/blob/output/github-contribution-grid-snake.svg)
 
 ###
