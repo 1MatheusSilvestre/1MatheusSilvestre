@@ -39,9 +39,3 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 <h5 align="left">👨🏽‍💻 Codando desde Jun/24<br>🎯Objetivo : Querendo ingressar na área de tecnologia que sou apaixonado!</h5>
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1MatheusSilvestre/1MatheusSilvestre/output/github-contribution-grid-snake-dark.svg">
-</picture>
