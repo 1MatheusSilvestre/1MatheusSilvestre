@@ -8,7 +8,7 @@
 
 #
 
-<h5 align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente praticando Python e estudando brevemente algumas linguagens Front-End (Java, Node, HTML, CSS).
+<h5 align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente praticando Python e estudando brevemente algumas linguagens Front-End (JavaScript, HTML, CSS).
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</h5>
 
 #
